@@ -1,0 +1,12 @@
+/* Basic stuff. Modify to your liking 👍 */
+body {
+    background: rgb(2,0,36) !important;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%) !important;
+    /* background: red !important; */
+}
+
+/* This is experimental code customized for elements in the Google Search Results page. 
+Feel free to modify this part. */
+/* #hdtb-msb {
+    background-color: red !important;
+} */
